@@ -13,7 +13,7 @@ Frist install Docker on Ubuntu20.04:
 if it shows you have 1 not upgraded, you could use the commond: 
 	 
 	 sudo apt-get upgrade
-Then
+For the Next step
 	 
 	 apt-cache policy docker-ce
 	 
